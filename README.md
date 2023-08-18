@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/article-preview-component-4EMsMJJdiI](My Solution)
+- Live Site URL: [https://seyi-amusan.github.io/Seyi-Amusan/](Live site)
 
 ## My process
 
@@ -44,4 +44,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Seyi-Amusan](@Seyi-Amusan)
