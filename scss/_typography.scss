@@ -1,0 +1,27 @@
+.container{
+
+    &__description{
+        line-height: 1.5;
+
+        &--header{
+            color: var(--vd-greyish-blue);
+        }
+
+        &--paragraph{
+            font-size: 1.2rem;
+            color: var(--greyish-blue);
+            font-weight: 700;
+        }
+    }
+
+    &__person{
+        &--name{
+            color: var(--vd-greyish-blue);
+        }
+        &--date{
+            color: var(--greyish-blue);
+            font-weight: 700;
+        }
+    }
+
+}

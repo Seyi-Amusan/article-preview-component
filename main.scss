@@ -1,0 +1,32 @@
+@import 'scss/layout';
+@import 'scss/typography';
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+:root{
+    --greyish-blue: hsl(212, 23%, 69%);
+    --light-greyish-blue: hsl(210, 46%, 95%);
+    --des-dark-blue: hsl(214, 17%, 51%);
+    --vd-greyish-blue: hsl(217, 19%, 35%);
+    --vd-greyish-blue-a: hsl(217, 19%, 35%, .6);
+    --white: hsl(0, 0%, 100%);
+}
+
+body{
+    font-family: 'Manrope', sans-serif;
+    height: 100vh;
+    background-color: var(--light-greyish-blue);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
