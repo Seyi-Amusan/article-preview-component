@@ -4,7 +4,6 @@
     width: 74rem;
     height: 29rem;
     box-shadow: 0 2px 30px rgba(#000, .2);
-    overflow: hidden;
 
     display: grid;
     grid-auto-flow: column;
@@ -20,6 +19,7 @@
     &__image{
         width: 100%;
         height: 100%;
+        border-radius: 8px;
     }
 
     &__description{
